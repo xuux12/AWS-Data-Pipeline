@@ -6,7 +6,7 @@ It uses fully managed AWS services to build a serverless, scalable, and automate
 # 🚦 Copenhagen Traffic Jam Analysis.
 
     
-![Architecture Diagram]()
+![Architecture Diagram](https://github.com/xuux12/AWS-Data-Pipeline/blob/d2217bb98ab56c991bc5b46ee8036c4ed50361b8/copenhagenTraffic.jpg)
 
 This project analyzes 7 days of traffic data in Copenhagen using an end-to-end AWS data engineering pipeline.
 
