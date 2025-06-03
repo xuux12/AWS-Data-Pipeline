@@ -3,7 +3,7 @@ This project demonstrates a complete AWS-based data pipeline for processing and 
 It uses fully managed AWS services to build a serverless, scalable, and automated data analytics workflow.
 
 
-# 🚦 Copenhagen Traffic Jam Analysis (AWS Data Pipeline)
+# 🚦 Copenhagen Traffic Jam Analysis.
 
 This project analyzes 7 days of traffic data in Copenhagen using an end-to-end AWS data engineering pipeline.
 
