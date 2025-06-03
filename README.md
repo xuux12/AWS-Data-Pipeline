@@ -9,7 +9,7 @@ This project analyzes 7 days of traffic data in Copenhagen using an end-to-end A
 
 ## 🧱 Architecture
 
-![Architecture Diagram](https://github.com/xuux12/Copenhagen-Traffic-Data/blob/main/docs/architecture.png)
+
 
 ## ⚙️ Tech Stack
 
@@ -20,6 +20,6 @@ This project analyzes 7 days of traffic data in Copenhagen using an end-to-end A
 - **Amazon SNS** – email notification when Glue job finishes
 - **Amazon EventBridge** – detects Glue job status
 
-## 📂 Folder Structure
+
 
 
