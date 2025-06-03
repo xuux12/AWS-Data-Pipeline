@@ -20,6 +20,13 @@ This project analyzes 7 days of traffic data in Copenhagen using an end-to-end A
 - **Amazon SNS** – email notification when Glue job finishes
 - **Amazon EventBridge** – detects Glue job status
 
+## 🚀 How It Works
+
+1. Upload CSV to S3 bucket → triggers Lambda
+2. Lambda starts Glue ETL job
+3. Glue processes and stores clean data in S3 (Parquet)
+4. Athena queries analyze traffic trends
+5. When Glue finishes, SNS sends email alert
 
 
 
