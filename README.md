@@ -7,7 +7,7 @@ It uses fully managed AWS services to build a serverless, scalable, and automate
 
 This project analyzes 7 days of traffic data in Copenhagen using an end-to-end AWS data engineering pipeline.
 
-## 🧱 Architecture
+## 🧱 Architecture ![Architecture Diagram](https://github.com/your-username/your-repo-name/raw/main/images/architecture.png)
 
 
 
